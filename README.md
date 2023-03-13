@@ -1,4 +1,7 @@
 # hexo-init
+
+![](https://img.shields.io/github/package-json/dependency-version/hms5232/hexo-init/hexo?color=0e83cd&label=hexo%20version&logo=hexo)
+
 初始化後的 hexo 專案，給不想一直 `hexo init` 的你
 
 ## 緣起
